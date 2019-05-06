@@ -2,7 +2,7 @@
   "name": "memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tniccolls.github.io/marvel-memory-game/",
+  "homepage": "https://tniccolls.github.io/marvel-memory-game",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
