@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marvel-memory-game/static/css/main.a17c0fe0.chunk.css",
+    "main.js": "/marvel-memory-game/static/js/main.b7d1ee7a.chunk.js",
+    "main.js.map": "/marvel-memory-game/static/js/main.b7d1ee7a.chunk.js.map",
+    "runtime~main.js": "/marvel-memory-game/static/js/runtime~main.c25bf332.js",
+    "runtime~main.js.map": "/marvel-memory-game/static/js/runtime~main.c25bf332.js.map",
+    "static/js/2.884c28c3.chunk.js": "/marvel-memory-game/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/marvel-memory-game/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/marvel-memory-game/index.html",
+    "precache-manifest.395f0dd6db7ae263132de1ec88390d13.js": "/marvel-memory-game/precache-manifest.395f0dd6db7ae263132de1ec88390d13.js",
+    "service-worker.js": "/marvel-memory-game/service-worker.js",
+    "static/css/main.a17c0fe0.chunk.css.map": "/marvel-memory-game/static/css/main.a17c0fe0.chunk.css.map"
+  }
+}
